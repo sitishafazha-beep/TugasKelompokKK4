@@ -43,34 +43,25 @@ Berikut adalah link video demonstrasi penggunaan website Velato (tanpa suara/pen
 Berikut adalah tampilan antarmuka halaman utama Velato:
 
 ### Tampilan Halaman Utama (Landing Page)
-<img src="Screenshot 2026-05-17 152651.png" alt="Landing Page Velato" width="100%">
+<img src="https://github.com/sitishafazha-beep/TugasKelompokKK4/blob/main/Screenshot%202026-05-17%20152651.png?raw=true" alt="Landing Page Velato" width="100%">
 
 ### Tampilan Halaman Utama (Bagian Flavour)
-<img src="Screenshot 2026-05-17 153814.png" alt="Landing Page Velato" width="100%">
+<img src="https://github.com/sitishafazha-beep/TugasKelompokKK4/blob/main/Screenshot%202026-05-17%20153814.png?raw=true" alt="Landing Page Velato" width="100%">
 
 ### Tampilan Halaman Utama (Bagian About)
-<img src="Screenshot 2026-05-17 153932.png" alt="Landing Page Velato" width="100%">
+<img src="https://github.com/sitishafazha-beep/TugasKelompokKK4/blob/main/Screenshot%202026-05-17%20153932.png?raw=true" alt="Landing Page Velato" width="100%">
 
 ### Tampilan Sign In
-<img src="Screenshot 2026-05-17 154014.png" alt="Landing Page Velato" width="100%">
+<img src="https://github.com/sitishafazha-beep/TugasKelompokKK4/blob/main/Screenshot%202026-05-17%20154014.png?raw=true" alt="Landing Page Velato" width="100%">
 
 ### Tampilan Daftar Akun
-<img src="Screenshot 2026-05-17 154135.png" alt="Landing Page Velato" width="100%">
+<img src="https://github.com/sitishafazha-beep/TugasKelompokKK4/blob/main/Screenshot%202026-05-17%20154135.png?raw=true" alt="Landing Page Velato" width="100%">
 
 ### Tampilan Admin
-<img src="Screenshot 2026-05-17 154305.png" alt="Landing Page Velato" width="100%">
+<img src="https://github.com/sitishafazha-beep/TugasKelompokKK4/blob/main/Screenshot%202026-05-17%20154305.png?raw=true" alt="Landing Page Velato" width="100%">
 
 ### Tampilan Admin (Manage Menu)
-<img src="Screenshot 2026-05-17 154359.png" alt="Landing Page Velato" width="100%">
-
-### Tampilan Admin (Transaction)
-<img src="Screenshot 2026-05-17 154607.png" alt="Landing Page Velato" width="100%">
-
-### Tampilan Admin (Users)
-<img src="Screenshot 2026-05-17 154651.png" alt="Landing Page Velato" width="100%">
-
-### Tampilan Users 
-<img src="Screenshot 2026-05-17 154833.png" alt="Landing Page Velato" width="100%">
+<img src="https://github.com/sitishafazha-beep/TugasKelompokKK4/blob/main/Screenshot%202026-05-17%20154359.png?raw=true" alt="Landing Page Velato" width="100%">
 
 
 ## 6. Nama Kelompok dan Anggota
